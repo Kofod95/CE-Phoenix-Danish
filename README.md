@@ -7,7 +7,6 @@ Danish Language Pack for Phoenix Cart.
 Translations done by Daniel @Kofod95.
 Using polite and formal language (adressing the customer "Dem/De/Deres" somewhat equivilant to "You" with a capital "Y" in English).
 Admin is not translated, save for a few things, and it will remain as so, unless someone convinces me otherwise.
-For support, please contact me via private message on the forum, or alternatively on daniel.kofod.pedersen@gmail.com
 
 #INTRO (DANISH)
 
@@ -15,7 +14,6 @@ Dansk sprogpakke for Phoenix Cart.
 Oversættelsen er lavet af Daniel @Kofod95.
 Der benyttes høfligt og formelt sprog (Dem/De/Deres, ikke Du/Dig/Din).
 Admin er ikke oversat, udover nogle få ting. Jeg har ikke planer om at oversætte resten, medmindre nogen overbeviser mig om at jeg burde.
-Har du brug for hjælp, er du velkommen til at kontakte mig - gerne via privatebesked på forummet, men ellers på daniel.kofod.pedersen@gmail.com
 
 #INSTALLATION
 
